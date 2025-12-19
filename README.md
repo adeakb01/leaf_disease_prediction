@@ -13,7 +13,7 @@ An interactive web application built with Streamlit and TensorFlow that uses dee
 -**Real-Time Predictions**: Get immediate results with visual feedback
 
 ## Live Demo
-[**](https://leafdiseaseprediction-qbcct2hcglzhovv9c7hoaj.streamlit.app/)
+https://leafdiseaseprediction-qbcct2hcglzhovv9c7hoaj.streamlit.app/
 
 ## Tech Stack
 -**Framework**: Streamlit
